@@ -2,6 +2,16 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+## Tutorial progress
+
+ - [x] Chapter 1 - Introduction   
+ - [x] Chapter 2 - The Hero Editor   
+ - [x] Chapter 3 - Master/Detail
+ - [x] Chapter 4 - Multiple Components   
+ - [ ] Chapter 5 - Services
+ - [ ] Chapter 6 - Routing
+ - [ ] Chapter 7 - HTTP
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
