@@ -8,7 +8,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
  - [x] Chapter 2 - The Hero Editor   
  - [x] Chapter 3 - Master/Detail
  - [x] Chapter 4 - Multiple Components   
- - [ ] Chapter 5 - Services
+ - [x] Chapter 5 - Services
  - [ ] Chapter 6 - Routing
  - [ ] Chapter 7 - HTTP
 
